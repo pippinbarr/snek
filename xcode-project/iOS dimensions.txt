@@ -1,0 +1,15 @@
+20 x 13 would be the grid in all resolutions.
+
+iPhone 4, iPhone 4S, iPod 4th [48px]
+960 x 640 = (20 x 13.333)
+
+iPhone 5, iPod 5th [48px]
+1136 x 640 (26.667 x 13.333)
+
+iPad 2 (and mini) [48px]
+1024 × 768 (21.333 x 16) 
+
+iPad 3rd / 4th [96px]
+2048 x 1536 (21.333 x 16)
+
+Take top or bottom grid row for score.
